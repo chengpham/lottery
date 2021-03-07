@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lottery/static/css/main.b2495476.chunk.css",
-    "main.js": "/lottery/static/js/main.aab6d5bc.chunk.js",
-    "main.js.map": "/lottery/static/js/main.aab6d5bc.chunk.js.map",
+    "main.css": "/lottery/static/css/main.1825ebba.chunk.css",
+    "main.js": "/lottery/static/js/main.df0964c3.chunk.js",
+    "main.js.map": "/lottery/static/js/main.df0964c3.chunk.js.map",
     "runtime-main.js": "/lottery/static/js/runtime-main.0d25e128.js",
     "runtime-main.js.map": "/lottery/static/js/runtime-main.0d25e128.js.map",
     "static/css/2.fabbef47.chunk.css": "/lottery/static/css/2.fabbef47.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.a3e97f5b.chunk.js.map": "/lottery/static/js/2.a3e97f5b.chunk.js.map",
     "index.html": "/lottery/index.html",
     "static/css/2.fabbef47.chunk.css.map": "/lottery/static/css/2.fabbef47.chunk.css.map",
-    "static/css/main.b2495476.chunk.css.map": "/lottery/static/css/main.b2495476.chunk.css.map",
+    "static/css/main.1825ebba.chunk.css.map": "/lottery/static/css/main.1825ebba.chunk.css.map",
     "static/js/2.a3e97f5b.chunk.js.LICENSE.txt": "/lottery/static/js/2.a3e97f5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0d25e128.js",
     "static/css/2.fabbef47.chunk.css",
     "static/js/2.a3e97f5b.chunk.js",
-    "static/css/main.b2495476.chunk.css",
-    "static/js/main.aab6d5bc.chunk.js"
+    "static/css/main.1825ebba.chunk.css",
+    "static/js/main.df0964c3.chunk.js"
   ]
 }
